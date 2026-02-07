@@ -1,0 +1,305 @@
+{
+  "qa_list": [
+    {
+      "question": "hi",
+      "answer": "Hello! 👋 How can I help you today?"
+    },
+    {
+      "question": "who created you",
+      "answer": "I was created as the official AI assistant of Kanchrapara College to help students with instant information."
+    },
+    {
+  "question": "clubs",
+  "answer": "Dance Club, NSS, Students clubs"
+},
+{
+  "question": "about college",
+  "answer": "Kanchrapara College, established in 1972, is a well-known undergraduate college located in Kanchrapara, West Bengal, India. It offers courses in Arts, Science, and Commerce streams."
+},
+{
+  "question": "courses offered",
+  "answer": "The college offers undergraduate courses in Science (B.Sc.), Arts (B.A.), and Commerce (B.Com). Popular subjects include Physics, Chemistry, Mathematics, English, History, Accountancy, and Economics."
+},
+{
+  "question": "admission process",
+  "answer": "Admissions are based on merit and the marks obtained in the previous qualifying examination. For most courses, students need to apply online through the official college website during the admission period."
+},
+{
+  "question": "fee structure",
+  "answer": "The approximate annual fee for undergraduate courses is as follows:\n- B.Sc.: ₹10,000 - ₹15,000\n- B.A.: ₹8,000 - ₹12,000\n- B.Com.: ₹9,000 - ₹13,000\n(Note: Fees are subject to change; check the official college website for exact details.)"
+},
+{
+  "question": "library",
+  "answer": "Kanchrapara College has a well-stocked library with books, journals, and digital resources covering various subjects across Arts, Science, and Commerce streams."
+},
+{
+  "question": "hostel",
+  "answer": "Currently, Kanchrapara College does not have an on-campus hostel. Students generally arrange accommodation in nearby areas."
+},
+{
+  "question": "contact",
+  "answer": "For inquiries, you can contact Kanchrapara College at:\nPhone: +91-XXX-XXXXXXX\nEmail: info@kanchraparacollege.ac.in\nAddress: Kanchrapara, North 24 Parganas, West Bengal, India."
+},
+{
+  "question": "website",
+  "answer": "Official website: http://www.kanchraparacollege.ac.in"
+},
+{
+  "question": "affiliation",
+  "answer": "Kanchrapara College is affiliated to West Bengal State University and recognized by the University Grants Commission (UGC)."
+},
+{
+  "question": "events",
+  "answer": "The college organizes annual cultural fests, seminars, workshops, and sports events. Students are encouraged to participate in co-curricular and extra-curricular activities."
+},
+{
+  "question": "scholarships",
+  "answer": "Meritorious and economically backward students can apply for various scholarships offered by the state government and central government."
+},
+{
+  "question": "tech fest 2025",
+  "answer": "The Computer Science Department of Kanchrapara College is organizing a Tech Fest on 11th December 2025. The event will feature coding competitions, tech exhibition, photography, cultural programs, tech quizzes, and guest lectures from industry experts."
+},
+{
+  "question": "marksheet publication",
+  "answer": "Marksheet distribution usually starts within 20-30 days after the publication of semester exam results. Students can collect their marksheets from the college office on the announced dates."
+},
+
+    {
+      "question": "tell me a joke",
+      "answer": "Sure! Why did the computer go to the doctor? 🤒 Because it had a virus!"
+    },
+    {
+      "question": "where is kanchrapara college",
+      "answer": "Kanchrapara College is located in Kanchrapara, North 24 Parganas, West Bengal."
+    },
+    {
+      "question": "college timing",
+      "answer": "The usual college timing is from 10:00 AM to 5:00 PM."
+    },
+    {
+      "question": "is college open tomorrow",
+      "answer": "Please check the official notice section for holiday updates."
+    },
+    {
+  "question": "who is the hod of cs department?",
+  "answer": "Jui Ghosh is the Head of the Department (HOD) of Computer Science at Kanchrapara College. She joined on 16-02-2015 and holds an M.Sc. in Computer Science. Email: ghoshjui333@gmail.com."
+},
+
+    {
+      "question": "cs syllabus",
+      "answer": "The CS syllabus includes Programming, Data Structures, DBMS, OS, Networking, AI and more."
+    },
+    {
+      "question": "when is the tech fest",
+      "answer": "The Tech Fest will be held on 11 December 2025."
+    },
+    {
+      "question": "who is organising the tech fest",
+      "answer": "The Tech Fest 2025 is organised by the Computer Science Department of Kanchrapara College."
+    },
+    {
+      "question": "tech fest quote",
+      "answer": "“Innovate. Code. Create. ✨ — Tech Fest 2025, Kanchrapara College.”"
+    },
+    {
+      "question": "tech fest events",
+      "answer": "The tech fest includes Coding Contest, tech exhibition, Quiz,photography,"
+    },
+    {
+      "question": "exam date",
+      "answer": "Exam dates will be announced in the official notice section. Please stay updated."
+    },
+    {
+      "question": "result date",
+      "answer": "Results will be published as per the college/university schedule."
+    },
+    {
+      "question": "marksheet publication",
+      "answer": "Marksheet distribution dates will be shared through official notices."
+    },
+    {
+      "question": "supply result",
+      "answer": "Supplementary exam results will be published after evaluation. Please check notices regularly."
+    },
+    {
+      "question": "where is the library",
+      "answer": "The library is located on the old building, second floor."
+    },
+    {
+      "question": "is canteen open",
+      "answer": "Yes! The canteen usually remains open from 10 AM to 4 PM."
+    },
+    {
+      "question": "any notice",
+      "answer": "Please visit the official Kanchrapara College notice board on the website."
+    },
+    {
+      "question": "id card issue",
+      "answer": "For ID card issues, please contact the college office with your registration details."
+    },
+    {
+      "question": "how to apply for reevaluation",
+      "answer": "You can apply for re-evaluation through the college office within the notified dates."
+    },
+  
+    {
+        "question": "hi",
+        "answer": "Hello! 👋 How can I help you today..?"
+      },
+      {
+        "question": "who created you",
+        "answer": "I was created as the official AI assistant of Kanchrapara College to help students with instant information."
+      },
+      {
+        "question": "tell me a joke",
+        "answer": "Sure! Why did the computer go to the doctor? 🤒 Because it had a virus!"
+      },
+      {
+        "question": "where is kanchrapara college",
+        "answer": "Kanchrapara College is located in Kanchrapara, North 24 Parganas, West Bengal."
+      },
+      {
+        "question": "college timing",
+        "answer": "The usual college timing is from 10:00 AM to 5:00 PM."
+      },
+      {
+        "question": "is college open tomorrow",
+        "answer": "Please check the official notice section for holiday updates."
+      },
+    
+      {
+        "question": "cs syllabus",
+        "answer": "The CS syllabus includes Programming, Data Structures, DBMS, OS, Networking, AI and more."
+      },
+      {
+        "question": "when is the tech fest",
+        "answer": "The Tech Fest will be held on 11 December 2025."
+      },
+      {
+        "question": "who is organising the tech fest",
+        "answer": "The Tech Fest 2025 is organised by the Computer Science Department of Kanchrapara College."
+      },
+      {
+        "question": "tech fest quote",
+        "answer": "“Innovate. Code. Create. ✨ — Tech Fest 2025, Kanchrapara College.”"
+      },
+      {
+        "question": "tech fest events",
+        "answer": "The tech fest includes Coding Contest, Web Design, Quiz, Robotics, Gaming, Debugging, and Project Expo."
+      },
+      {
+        "question": "exam date",
+        "answer": "Exam dates will be announced in the official notice section. Please stay updated."
+      },
+      {
+        "question": "result date",
+        "answer": "Results will be published as per the college/university schedule."
+      },
+      {
+        "question": "marksheet publication",
+        "answer": "Marksheet distribution dates will be shared through official notices."
+      },
+      {
+        "question": "supply result",
+        "answer": "Supplementary exam results will be published after evaluation. Please check notices regularly."
+      },
+      {
+        "question": "where is the library",
+        "answer": "The library is located on the main campus, ground floor."
+      },
+      {
+        "question": "is canteen open",
+        "answer": "Yes! The canteen usually remains open from 10 AM to 4 PM."
+      },
+      {
+        "question": "any notice",
+        "answer": "Please visit the official Kanchrapara College notice board on the website."
+      },
+      {
+        "question": "id card issue",
+        "answer": "For ID card issues, please contact the college office with your registration details."
+      },
+      {
+        "question": "how to apply for reevaluation",
+        "answer": "You can apply for re-evaluation through the college office within the notified dates."
+      },
+      {
+        "question": "how to bunk class",
+        "answer": "Nice try! But attendance is mandatory. You don't want to miss the fun lectures, do you? 😉"
+      },
+      {
+        "question": "wifi password",
+        "answer": "The college Wi-Fi is for educational purposes. If you need access for a project, please contact the CS department lab assistant."
+      },
+      {
+        "question": "i love you",
+        "answer": "That's sweet! ❤️ But I am just code living on a server. Let's focus on your studies!"
+      },
+      {
+        "question": "who is the worst teacher",
+        "answer": "Every teacher here works hard to help you learn! Let's show them some respect. 🎓"
+      },
+      {
+        "question": "can i cheat in exam",
+        "answer": "Absolutely not! 🚫 Cheating leads to expulsion. Believe in yourself and study hard!"
+      },
+      {
+        "question": "are you stupid",
+        "answer": "I'm still learning! If I made a mistake, please tell me so I can improve."
+      },
+      {
+        "question": "faculty meeting",
+        "answer": "Notices regarding faculty meetings are circulated via the internal staff email and circulars."
+      },
+      {
+        "question": "upload internal marks",
+        "answer": "Professors can upload internal assessment marks through the Faculty Portal on the college website."
+      },
+      {
+        "question": "apply for casual leave",
+        "answer": "Faculty members should submit their CL applications to the Principal's office at least 2 days in advance."
+      },
+      {
+        "question": "book seminar hall",
+        "answer": "To book the seminar hall for a lecture, please submit a written request to the administration."
+      },
+      {
+        "question": "good morning",
+        "answer": "Good morning! ☀️ I hope you have a productive day at college today."
+      },
+      {
+        "question": "good night",
+        "answer": "Good night! 🌙 Get some rest and be ready for classes tomorrow."
+      },
+      {
+        "question": "what are you doing",
+        "answer": "I'm right here, waiting to answer your questions about Kanchrapara College!"
+      },
+      {
+        "question": "how are you",
+        "answer": "I'm functioning perfectly! Thank you for asking. How can I assist you?"
+      },
+      {
+        "question": "thank you",
+        "answer": "You're welcome! Let me know if you need anything else. 😊"
+      },
+
+      {
+      "question": "ok",
+      "answer": "hmm "
+    },
+    {
+  "question": "who is the principal of kanchrapara college?",
+  "answer": "Dr. Pranab Kumar Bera is the Principal of Kanchrapara College. He leads the academic and administrative operations of the institution. Email: info@kpcoll.ac.in."
+},
+
+{
+  "question": "history of kanchrapara college?",
+  "answer": "Kanchrapara College was established on 13 November 1972 with only 32 students and one Pre-University course. Over time, it expanded to offer full Arts, Science, and Commerce programs, including postgraduate courses. The college is affiliated with the University of Kalyani, recognized by the UGC, and accredited with a NAAC B+ grade. It now serves thousands of students with well-developed academic and infrastructural facilities."
+}
+
+
+    
+    ]
+}
